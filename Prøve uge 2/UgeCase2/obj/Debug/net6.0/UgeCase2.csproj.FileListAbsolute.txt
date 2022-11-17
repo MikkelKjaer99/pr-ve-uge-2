@@ -1,0 +1,30 @@
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\bin\Debug\net6.0\UgeCase2.exe
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\bin\Debug\net6.0\UgeCase2.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\bin\Debug\net6.0\UgeCase2.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\bin\Debug\net6.0\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\bin\Debug\net6.0\UgeCase2.pdb
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.csproj.AssemblyReference.cache
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\refint\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.pdb
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\UgeCase2.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\UgeCase2-master\UgeCase2\obj\Debug\net6.0\ref\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\bin\Debug\net6.0\UgeCase2.exe
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\bin\Debug\net6.0\UgeCase2.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\bin\Debug\net6.0\UgeCase2.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\bin\Debug\net6.0\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\bin\Debug\net6.0\UgeCase2.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.csproj.AssemblyReference.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\refint\UgeCase2.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\UgeCase2.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\Prøve uge 2\UgeCase2\obj\Debug\net6.0\ref\UgeCase2.dll
